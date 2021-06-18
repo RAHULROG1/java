@@ -36,18 +36,3 @@ public class employee {
 	}
 
 }
-###########################################################################################################################
-*OUTPUT*
-Limit
-2
-Enter the details:
-1
-2
-Krich
-Enter the details:
-2
-3
-ansil
-Enter the eno:
-2
-Employee found
