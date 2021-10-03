@@ -35,7 +35,7 @@ class sortStr{
     }
 }
 
-public class GOKUL{
+public class ASDS{
     public static void main(String ...a){
         sortStr s = new sortStr();
         s.getStr();
